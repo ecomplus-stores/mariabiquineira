@@ -42,12 +42,24 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": [
       {
         "text": "biquíni",
         "url": "/biquini/"
+      },
+      {
+        "url": "/salle-off/",
+        "text": "salle off"
+      },
+      {
+        "url": "/novidades/",
+        "text": "novidades"
+      },
+      {
+        "url": "/maio/",
+        "text": "maiô"
       }
     ]
   },
