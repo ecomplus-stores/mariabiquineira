@@ -26,6 +26,18 @@
       {
         "url": "/pages/pagamentos",
         "text": "Formas de Pagamento"
+      },
+      {
+        "url": "/pages/privacidade",
+        "text": "Política de privacidade"
+      },
+      {
+        "url": "/pages/sobre",
+        "text": "Quem é Maria Biquineira?"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "/pages/trocas"
       }
     ]
   },
