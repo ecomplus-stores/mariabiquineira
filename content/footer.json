@@ -4,9 +4,18 @@
     "text": "Maria Biquineira é um pequeno atelier charmoso de produção própria de biquínis. Cada peça é pensada com muito carinho e dedicação!"
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "/pages/contato",
+        "text": "Contato"
+      },
+      {
+        "text": "Atendimento",
+        "url": "/pages/atendimento"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
