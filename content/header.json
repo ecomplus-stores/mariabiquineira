@@ -9,7 +9,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/biquini/?biquíni",
+      "/salle-off/?salle off",
+      "/novidades/?novidades",
+      "/maio/?maiô"
+    ],
     "random": 6,
     "full_width": false
   },
