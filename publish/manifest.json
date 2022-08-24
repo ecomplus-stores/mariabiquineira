@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5b1a12dea6fe2086f460678a3726b613.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.17c00c01341d71c43a7557f40eaf927f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9cd00576e0c1440c7e2fa91132db0d28.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.afb2078dfc073146a0f67f72dbadf24c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5f2819d493d2586026176176103362aa.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "mariabiquineira",
+  "short_name": "mariabiquineira",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "mariabiquineira",
+  "background_color": "#ffffff",
+  "theme_color": "#eb6e55"
+}
