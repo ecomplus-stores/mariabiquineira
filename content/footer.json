@@ -14,6 +14,18 @@
       {
         "text": "Atendimento",
         "url": "/pages/atendimento"
+      },
+      {
+        "text": "Condições de Entrega",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "Dicas de Conservação",
+        "url": "/pages/faq"
+      },
+      {
+        "url": "/pages/pagamentos",
+        "text": "Formas de Pagamento"
       }
     ]
   },
