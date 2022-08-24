@@ -44,7 +44,12 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "biquíni",
+        "url": "/biquini/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
