@@ -1,6 +1,6 @@
 {
   "description": {
-    "title": "Maria Biquineira. Todos os direitos reservados.",
+    "title": "",
     "text": "Somos um pequeno ateliê muito charmoso localizado no Sul Baiano. Nossas peças são feitas com muito carinho e de forma artesanal para que você se sentir ainda mais linda!!!"
   },
   "links_1": {
@@ -42,7 +42,7 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": [
       {
@@ -77,7 +77,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": false,
     "aura": false,
@@ -85,13 +85,13 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
     "amex": true,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
