@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "Maria Biquineira",
-    "text": "Maria Biquineira é um pequeno atelier charmoso de produção própria de biquínis. Cada peça é pensada com muito carinho e dedicação!"
+    "title": "Maria Biquineira. Todos os direitos reservados.",
+    "text": "Somos um pequeno ateliê muito charmoso localizado no Sul Baiano. Nossas peças são feitas com muito carinho e de forma artesanal para que você se sentir ainda mais linda!!!"
   },
   "links_1": {
     "list_pages": false,
@@ -79,7 +79,7 @@
   "payment_methods": {
     "bb": true,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
@@ -90,6 +90,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "amex": true,
     "itau": true
   },
   "credits": ""
