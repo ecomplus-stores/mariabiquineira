@@ -20,6 +20,10 @@
         "url": "/pages/entrega"
       },
       {
+        "url": "/pages/sobre-nos",
+        "text": "Quem é Maria Biquineira?"
+      },
+      {
         "text": "Dicas de Conservação",
         "url": "/pages/faq"
       },
@@ -32,10 +36,6 @@
         "text": "Política de privacidade"
       },
       {
-        "url": "/pages/sobre-nos",
-        "text": "Quem é Maria Biquineira?"
-      },
-      {
         "text": "Trocas e devoluções",
         "url": "/pages/trocas"
       }
@@ -46,16 +46,16 @@
     "title": "Categorias",
     "list": [
       {
-        "text": "biquíni",
-        "url": "/biquini/"
-      },
-      {
         "url": "/salle-off/",
         "text": "salle off"
       },
       {
         "url": "/novidades/",
         "text": "novidades"
+      },
+      {
+        "text": "biquíni",
+        "url": "/biquini/"
       },
       {
         "url": "/maio/",
@@ -90,6 +90,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "amex": true,
     "itau": false
   },
