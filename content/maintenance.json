@@ -1,6 +1,6 @@
 {
-  "title": "Estamos em manutenção! Voltamos em breve!",
+  "title": "Estamos em manutenção",
   "body": "*Voltamos em breve*",
-  "active": false,
+  "active": true,
   "unlock_key": ""
 }
